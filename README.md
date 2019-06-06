@@ -32,6 +32,6 @@
 
 
 
-[DEPLOY]:https://github.com/isHappyCoder/JamesMail/james_mial_DEPLOY.md
+[DEPLOY]:https://github.com/isHappyCoder/JamesMail/blob/master/james_mial_DEPLOY.md
 [DOWNLOAD_JAMESMAIl]:https://http://james.apache.org/download.cgi
 [DETAIL]:http://james.apache.org/server/index.html

@@ -1,0 +1,19 @@
+INFO  02:54:17,900 | james.imapserver | ID=-1760728870 Connection established from 47.97.23.199
+INFO  02:54:17,916 | james.imapserver | ID=-1760728870 Missing command implementation for commmand /
+INFO  02:54:17,916 | james.imapserver | ID=-1760728870 Connection closed for 47.97.23.199
+INFO  06:29:09,752 | james.imapserver | ID=664271837 Connection established from 39.107.14.208
+INFO  06:29:09,768 | james.imapserver | ID=664271837 Missing command implementation for commmand /
+INFO  06:29:09,768 | james.imapserver | ID=664271837 Connection closed for 39.107.14.208
+INFO  11:06:14,565 | james.imapserver | ID=1175654492 Connection established from 109.74.198.16
+INFO  11:06:16,222 | james.imapserver | ID=1175654492 Connection closed for 109.74.198.16
+INFO  11:06:16,394 | james.imapserver | ID=2014970899 Connection established from 109.74.198.16
+INFO  11:06:16,394 | james.imapserver | ID=2014970899 Connection closed for 109.74.198.16
+INFO  11:06:16,737 | james.imapserver | ID=-814533491 Connection established from 109.74.198.16
+INFO  11:06:16,737 | james.imapserver | ID=-814533491 Missing command implementation for commmand /
+INFO  11:06:16,737 | james.imapserver | ID=-814533491 Connection closed for 109.74.198.16
+INFO  13:26:35,355 | james.imapserver | ID=-984516855 Connection established from 198.108.67.16
+INFO  13:26:36,074 | james.imapserver | ID=-984516855 Connection closed for 198.108.67.16
+INFO  20:54:01,387 | james.imapserver | ID=135619832 Connection established from 223.93.185.59
+INFO  20:54:01,433 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+WARN  20:54:12,262 | james.imapserver | ID=135619832 Error while processing imap request: java.io.IOException - 远程主机强迫关闭了一个现有的连接。
+INFO  20:54:12,293 | james.imapserver | ID=135619832 Connection closed for 223.93.185.59

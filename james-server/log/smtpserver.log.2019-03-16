@@ -1,0 +1,31 @@
+INFO  04:41:43,692 | james.smtpserver | Id='1371092933' User='' Connection established from 127.0.0.1
+INFO  04:41:45,208 | james.smtpserver | Id='1371092933' User='' Connection closed for 127.0.0.1
+INFO  04:41:45,208 | james.smtpserver | Id='1371092933' User='' Connection closed for 127.0.0.1
+INFO  15:29:01,232 | james.smtpserver | SMTP Service bound to: 0.0.0.0:25
+INFO  15:29:01,232 | james.smtpserver | SMTP Service is running on: iZzg6iw2ooe4g6Z
+INFO  15:29:01,232 | james.smtpserver | SMTP Service handler hello name is: iZzg6iw2ooe4g6Z
+INFO  15:29:01,232 | james.smtpserver | SMTP Service handler connection timeout is: 360
+INFO  15:29:01,232 | james.smtpserver | SMTP Service connection backlog is: 200
+INFO  15:29:01,232 | james.smtpserver | This SMTP server does not require authentication.
+INFO  15:29:01,232 | james.smtpserver | No maximum message size is enforced for this server.
+INFO  15:29:01,639 | james.smtpserver | Init SMTP Service done
+INFO  16:31:28,062 | james.smtpserver | Id='-963054520' User='' Connection established from 123.103.9.7
+INFO  16:31:28,141 | james.smtpserver | Id='-963054520' User='' org.apache.james.smtpserver.AuthRequiredToRelayRcptHook: result=2 (DENY)
+INFO  16:31:28,172 | james.smtpserver | Id='-963054520' User='' Connection closed for 123.103.9.7
+INFO  16:31:28,172 | james.smtpserver | Id='-963054520' User='' Connection closed for 123.103.9.7
+INFO  16:35:27,767 | james.smtpserver | Id='-597869643' User='' Connection established from 123.103.9.7
+INFO  16:35:27,814 | james.smtpserver | Id='-597869643' User='' org.apache.james.smtpserver.AuthRequiredToRelayRcptHook: result=2 (DENY)
+INFO  16:35:27,830 | james.smtpserver | Id='-597869643' User='' Connection closed for 123.103.9.7
+INFO  16:35:27,830 | james.smtpserver | Id='-597869643' User='' Connection closed for 123.103.9.7
+INFO  16:37:59,471 | james.smtpserver | Id='-1422334480' User='' Connection established from 123.103.9.7
+INFO  16:37:59,502 | james.smtpserver | Id='-1422334480' User='' org.apache.james.smtpserver.AuthRequiredToRelayRcptHook: result=2 (DENY)
+INFO  16:37:59,518 | james.smtpserver | Id='-1422334480' User='' Connection closed for 123.103.9.7
+INFO  16:37:59,518 | james.smtpserver | Id='-1422334480' User='' Connection closed for 123.103.9.7
+INFO  16:53:00,914 | james.smtpserver | SMTP Service bound to: 0.0.0.0:25
+INFO  16:53:00,914 | james.smtpserver | SMTP Service is running on: iZzg6iw2ooe4g6Z
+INFO  16:53:00,914 | james.smtpserver | SMTP Service handler hello name is: iZzg6iw2ooe4g6Z
+INFO  16:53:00,914 | james.smtpserver | SMTP Service handler connection timeout is: 360
+INFO  16:53:00,914 | james.smtpserver | SMTP Service connection backlog is: 200
+INFO  16:53:00,930 | james.smtpserver | This SMTP server does not require authentication.
+INFO  16:53:00,930 | james.smtpserver | No maximum message size is enforced for this server.
+INFO  16:53:01,227 | james.smtpserver | Init SMTP Service done

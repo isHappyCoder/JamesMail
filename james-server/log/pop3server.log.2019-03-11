@@ -1,0 +1,12 @@
+INFO  10:27:51,478 | james.pop3server | POP3 Service bound to: 0.0.0.0:110
+INFO  10:27:51,481 | james.pop3server | POP3 Service is running on: PC201807301235
+INFO  10:27:51,481 | james.pop3server | POP3 Service handler hello name is: PC201807301235
+INFO  10:27:51,482 | james.pop3server | POP3 Service handler connection timeout is: 1200
+INFO  10:27:51,484 | james.pop3server | POP3 Service connection backlog is: 200
+INFO  10:27:51,566 | james.pop3server | Init POP3 Service done
+INFO  14:36:56,283 | james.pop3server | POP3 Service bound to: 0.0.0.0:110
+INFO  14:36:56,283 | james.pop3server | POP3 Service is running on: PC201807301235
+INFO  14:36:56,283 | james.pop3server | POP3 Service handler hello name is: PC201807301235
+INFO  14:36:56,283 | james.pop3server | POP3 Service handler connection timeout is: 1200
+INFO  14:36:56,283 | james.pop3server | POP3 Service connection backlog is: 200
+INFO  14:36:56,363 | james.pop3server | Init POP3 Service done

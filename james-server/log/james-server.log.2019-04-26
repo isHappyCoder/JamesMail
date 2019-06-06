@@ -1,0 +1,19 @@
+INFO  01:01:24,633 | james.imapserver | ID=-1361534768 Connection established from 106.15.76.85
+INFO  01:01:24,665 | james.imapserver | ID=-1361534768 Missing command implementation for commmand /
+INFO  01:01:24,680 | james.imapserver | ID=-1361534768 Connection closed for 106.15.76.85
+INFO  05:08:08,752 | james.imapserver | ID=-382821165 Connection established from 47.94.52.138
+INFO  05:08:08,752 | james.imapserver | ID=-382821165 Missing command implementation for commmand /
+WARN  05:08:08,752 | james.imapserver | ID=-382821165 Error while processing imap request: java.nio.channels.ClosedChannelException - null
+INFO  05:08:08,752 | james.imapserver | ID=-382821165 Connection closed for 47.94.52.138
+INFO  08:55:22,155 | james.imapserver | ID=1751548010 Connection established from 107.170.196.63
+INFO  08:55:31,983 | james.imapserver | ID=1751548010 Connection closed for 107.170.196.63
+INFO  13:53:55,749 | james.imapserver | ID=-1793474854 Connection established from 171.217.59.126
+INFO  13:53:55,811 | james.imapserver | ID=-1793474854 Connection closed for 171.217.59.126
+INFO  18:03:38,455 | james.imapserver | ID=-623885107 Connection established from 92.118.161.33
+INFO  18:03:38,768 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 2 ms.
+WARN  18:03:39,455 | james.imapserver | ID=-623885107 Error while processing imap request: java.nio.channels.ClosedChannelException - null
+INFO  18:03:39,455 | james.imapserver | ID=-623885107 Connection closed for 92.118.161.33
+INFO  18:17:47,430 | james.imapserver | ID=2034561281 Connection established from 80.82.70.118
+INFO  18:17:47,633 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 1 ms.
+WARN  18:17:48,023 | james.imapserver | ID=2034561281 Error while processing imap request: java.nio.channels.ClosedChannelException - null
+INFO  18:17:48,023 | james.imapserver | ID=2034561281 Connection closed for 80.82.70.118

@@ -1,0 +1,648 @@
+INFO  03:17:26,422 | james.imapserver | ID=-1070014261 Connection established from 106.15.52.246
+INFO  03:17:26,468 | james.imapserver | ID=-1070014261 Missing command implementation for commmand /
+INFO  03:17:26,468 | james.imapserver | ID=-1070014261 Connection closed for 106.15.52.246
+INFO  04:59:17,944 | james.imapserver | ID=-1152671586 Connection established from 106.15.76.92
+INFO  04:59:17,944 | james.imapserver | ID=-1152671586 Missing command implementation for commmand /
+INFO  04:59:17,960 | james.imapserver | ID=-1152671586 Connection closed for 106.15.76.92
+INFO  09:28:32,853 | james.imapserver | ID=-48693230 Connection established from 125.35.5.253
+INFO  09:28:32,900 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  09:28:32,915 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  09:28:32,962 | james.imapserver | ID=-48693230 Connection closed for 125.35.5.253
+INFO  09:28:32,978 | james.imapserver | ID=-327711961 Connection established from 125.35.5.253
+INFO  09:28:32,994 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  09:28:32,994 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  09:28:33,025 | james.imapserver | ID=-327711961 Connection closed for 125.35.5.253
+INFO  09:28:33,119 | james.imapserver | ID=1174747154 Connection established from 125.35.5.253
+INFO  09:28:33,134 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  09:28:33,134 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  09:28:33,165 | james.imapserver | ID=1174747154 Connection closed for 125.35.5.253
+INFO  09:28:33,165 | james.imapserver | ID=1367531415 Connection established from 125.35.5.253
+INFO  09:28:33,181 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  09:28:33,181 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  09:28:33,212 | james.imapserver | ID=1367531415 Connection closed for 125.35.5.253
+INFO  09:48:24,048 | james.imapserver | ID=-1413297172 Connection established from 125.35.5.253
+INFO  09:48:24,048 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  09:48:24,064 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  09:48:24,111 | james.imapserver | ID=-1413297172 Connection closed for 125.35.5.253
+INFO  09:48:24,204 | james.imapserver | ID=-515808404 Connection established from 125.35.5.253
+INFO  09:48:24,204 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  09:48:24,220 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  09:48:24,236 | james.imapserver | ID=-515808404 Connection closed for 125.35.5.253
+INFO  09:48:24,298 | james.imapserver | ID=-1738228595 Connection established from 125.35.5.253
+INFO  09:48:24,298 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  09:48:24,314 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  09:48:24,329 | james.imapserver | ID=-1738228595 Connection closed for 125.35.5.253
+INFO  09:48:24,751 | james.imapserver | ID=-374366302 Connection established from 125.35.5.253
+INFO  09:48:24,767 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  09:48:24,767 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  09:48:24,782 | james.imapserver | ID=-374366302 Connection closed for 125.35.5.253
+INFO  13:53:15,087 | james.imapserver | ID=-390699652 Connection established from 125.35.5.253
+INFO  13:53:15,118 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  13:53:15,133 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  13:53:15,180 | james.imapserver | ID=-390699652 Connection closed for 125.35.5.253
+INFO  13:53:15,212 | james.imapserver | ID=-63452691 Connection established from 125.35.5.253
+INFO  13:53:15,212 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  13:53:15,227 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  13:53:15,243 | james.imapserver | ID=-63452691 Connection closed for 125.35.5.253
+INFO  13:53:15,258 | james.imapserver | ID=566344551 Connection established from 125.35.5.253
+INFO  13:53:15,274 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  13:53:15,274 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  13:53:15,305 | james.imapserver | ID=566344551 Connection closed for 125.35.5.253
+INFO  13:53:15,321 | james.imapserver | ID=-1666360106 Connection established from 125.35.5.253
+INFO  13:53:15,321 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  13:53:15,337 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  13:53:15,352 | james.imapserver | ID=-1666360106 Connection closed for 125.35.5.253
+INFO  14:11:12,187 | james.imapserver | ID=1876727424 Connection established from 125.35.5.253
+INFO  14:11:12,187 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:11:12,203 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:11:12,250 | james.imapserver | ID=1876727424 Connection closed for 125.35.5.253
+INFO  14:11:12,281 | james.imapserver | ID=-1168184285 Connection established from 125.35.5.253
+INFO  14:11:12,297 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:11:12,297 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:11:12,328 | james.imapserver | ID=-1168184285 Connection closed for 125.35.5.253
+INFO  14:11:12,453 | james.imapserver | ID=628086260 Connection established from 125.35.5.253
+INFO  14:11:12,453 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:11:12,469 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:11:12,484 | james.imapserver | ID=628086260 Connection closed for 125.35.5.253
+INFO  14:11:12,515 | james.imapserver | ID=-642890448 Connection established from 125.35.5.253
+INFO  14:11:12,531 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:11:12,531 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:11:12,562 | james.imapserver | ID=-642890448 Connection closed for 125.35.5.253
+INFO  14:14:55,126 | james.imapserver | ID=190013170 Connection established from 125.35.5.253
+INFO  14:14:55,142 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:14:55,142 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:14:55,173 | james.imapserver | ID=190013170 Connection closed for 125.35.5.253
+INFO  14:14:55,189 | james.imapserver | ID=-770367716 Connection established from 125.35.5.253
+INFO  14:14:55,189 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:14:55,189 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:14:55,220 | james.imapserver | ID=-770367716 Connection closed for 125.35.5.253
+INFO  14:14:55,220 | james.imapserver | ID=917262632 Connection established from 125.35.5.253
+INFO  14:14:55,236 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:14:55,251 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:14:55,267 | james.imapserver | ID=917262632 Connection closed for 125.35.5.253
+INFO  14:14:55,314 | james.imapserver | ID=800015615 Connection established from 125.35.5.253
+INFO  14:14:55,329 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:14:55,329 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:14:55,361 | james.imapserver | ID=800015615 Connection closed for 125.35.5.253
+INFO  14:17:31,346 | james.imapserver | ID=-1054272610 Connection established from 125.35.5.253
+INFO  14:17:31,346 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:17:31,362 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:17:31,393 | james.imapserver | ID=-1054272610 Connection closed for 125.35.5.253
+INFO  14:17:31,471 | james.imapserver | ID=1369953407 Connection established from 125.35.5.253
+INFO  14:17:31,471 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:17:31,487 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:17:31,502 | james.imapserver | ID=1369953407 Connection closed for 125.35.5.253
+INFO  14:17:31,643 | james.imapserver | ID=-787519411 Connection established from 125.35.5.253
+INFO  14:17:31,643 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:17:31,658 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:17:31,674 | james.imapserver | ID=-787519411 Connection closed for 125.35.5.253
+INFO  14:17:31,830 | james.imapserver | ID=1542845826 Connection established from 125.35.5.253
+INFO  14:17:31,830 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:17:31,846 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:17:31,862 | james.imapserver | ID=1542845826 Connection closed for 125.35.5.253
+INFO  14:17:50,768 | james.imapserver | ID=1519538676 Connection established from 125.35.5.253
+INFO  14:17:50,784 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:17:50,784 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:17:50,799 | james.imapserver | ID=1519538676 Connection closed for 125.35.5.253
+INFO  14:17:50,862 | james.imapserver | ID=1238164429 Connection established from 125.35.5.253
+INFO  14:17:50,862 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:17:50,877 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:17:50,893 | james.imapserver | ID=1238164429 Connection closed for 125.35.5.253
+INFO  14:17:50,909 | james.imapserver | ID=1756600048 Connection established from 125.35.5.253
+INFO  14:17:50,924 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:17:50,924 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:17:50,955 | james.imapserver | ID=1756600048 Connection closed for 125.35.5.253
+INFO  14:17:50,987 | james.imapserver | ID=1009537486 Connection established from 125.35.5.253
+INFO  14:17:51,002 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:17:51,002 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:17:51,034 | james.imapserver | ID=1009537486 Connection closed for 125.35.5.253
+INFO  14:20:31,035 | james.imapserver | ID=-664085217 Connection established from 125.35.5.253
+INFO  14:20:31,050 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:20:31,050 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:20:31,081 | james.imapserver | ID=-664085217 Connection closed for 125.35.5.253
+INFO  14:20:31,081 | james.imapserver | ID=1435542505 Connection established from 125.35.5.253
+INFO  14:20:31,097 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:20:31,097 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:20:31,128 | james.imapserver | ID=1435542505 Connection closed for 125.35.5.253
+INFO  14:20:31,144 | james.imapserver | ID=858983964 Connection established from 125.35.5.253
+INFO  14:20:31,144 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:20:31,160 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:20:31,191 | james.imapserver | ID=858983964 Connection closed for 125.35.5.253
+INFO  14:20:31,191 | james.imapserver | ID=1032345077 Connection established from 125.35.5.253
+INFO  14:20:31,206 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:20:31,222 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:20:31,238 | james.imapserver | ID=1032345077 Connection closed for 125.35.5.253
+INFO  14:21:35,519 | james.imapserver | ID=1295956053 Connection established from 125.35.5.253
+INFO  14:21:35,535 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:21:35,535 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:21:35,566 | james.imapserver | ID=1295956053 Connection closed for 125.35.5.253
+INFO  14:21:35,597 | james.imapserver | ID=-1152542502 Connection established from 125.35.5.253
+INFO  14:21:35,597 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:21:35,613 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:21:35,629 | james.imapserver | ID=-1152542502 Connection closed for 125.35.5.253
+INFO  14:21:35,644 | james.imapserver | ID=-538261302 Connection established from 125.35.5.253
+INFO  14:21:35,660 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:21:35,660 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:21:35,691 | james.imapserver | ID=-538261302 Connection closed for 125.35.5.253
+INFO  14:21:35,691 | james.imapserver | ID=-2001998748 Connection established from 125.35.5.253
+INFO  14:21:35,707 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:21:35,707 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:21:35,722 | james.imapserver | ID=-2001998748 Connection closed for 125.35.5.253
+INFO  14:23:47,536 | james.imapserver | ID=1259999857 Connection established from 125.35.5.253
+INFO  14:23:47,536 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:23:47,551 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:23:47,583 | james.imapserver | ID=1259999857 Connection closed for 125.35.5.253
+INFO  14:23:47,583 | james.imapserver | ID=-2142586418 Connection established from 125.35.5.253
+INFO  14:23:47,598 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:23:47,614 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:23:47,645 | james.imapserver | ID=-2142586418 Connection closed for 125.35.5.253
+INFO  14:23:47,661 | james.imapserver | ID=687207319 Connection established from 125.35.5.253
+INFO  14:23:47,661 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:23:47,661 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:23:47,692 | james.imapserver | ID=687207319 Connection closed for 125.35.5.253
+INFO  14:23:47,755 | james.imapserver | ID=1305202061 Connection established from 125.35.5.253
+INFO  14:23:47,755 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:23:47,755 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:23:47,786 | james.imapserver | ID=1305202061 Connection closed for 125.35.5.253
+INFO  14:24:26,849 | james.imapserver | ID=-1607215426 Connection established from 125.35.5.253
+INFO  14:24:26,849 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:24:26,864 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:24:26,895 | james.imapserver | ID=-1607215426 Connection closed for 125.35.5.253
+INFO  14:24:26,895 | james.imapserver | ID=1458148193 Connection established from 125.35.5.253
+INFO  14:24:26,911 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:24:26,911 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:24:26,927 | james.imapserver | ID=1458148193 Connection closed for 125.35.5.253
+INFO  14:24:26,942 | james.imapserver | ID=1045142455 Connection established from 125.35.5.253
+INFO  14:24:26,958 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:24:26,958 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:24:26,989 | james.imapserver | ID=1045142455 Connection closed for 125.35.5.253
+INFO  14:24:27,005 | james.imapserver | ID=-328059451 Connection established from 125.35.5.253
+INFO  14:24:27,005 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:24:27,020 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:24:27,036 | james.imapserver | ID=-328059451 Connection closed for 125.35.5.253
+INFO  14:25:16,740 | james.imapserver | ID=-1703938284 Connection established from 125.35.5.253
+INFO  14:25:16,740 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:25:16,755 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:25:16,771 | james.imapserver | ID=-1703938284 Connection closed for 125.35.5.253
+INFO  14:25:16,786 | james.imapserver | ID=236833311 Connection established from 125.35.5.253
+INFO  14:25:16,786 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:25:16,802 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:25:16,818 | james.imapserver | ID=236833311 Connection closed for 125.35.5.253
+INFO  14:25:16,833 | james.imapserver | ID=1687410985 Connection established from 125.35.5.253
+INFO  14:25:16,849 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:25:16,849 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:25:16,880 | james.imapserver | ID=1687410985 Connection closed for 125.35.5.253
+INFO  14:25:16,896 | james.imapserver | ID=404526446 Connection established from 125.35.5.253
+INFO  14:25:16,896 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:25:16,911 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:25:16,927 | james.imapserver | ID=404526446 Connection closed for 125.35.5.253
+INFO  14:28:53,491 | james.imapserver | ID=-470564055 Connection established from 125.35.5.253
+INFO  14:28:53,507 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:28:53,507 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:28:53,538 | james.imapserver | ID=-470564055 Connection closed for 125.35.5.253
+INFO  14:28:53,553 | james.imapserver | ID=477872455 Connection established from 125.35.5.253
+INFO  14:28:53,553 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:28:53,569 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:28:53,585 | james.imapserver | ID=477872455 Connection closed for 125.35.5.253
+INFO  14:28:53,600 | james.imapserver | ID=149481516 Connection established from 125.35.5.253
+INFO  14:28:53,616 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:28:53,632 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:28:53,647 | james.imapserver | ID=149481516 Connection closed for 125.35.5.253
+INFO  14:28:53,663 | james.imapserver | ID=-851337384 Connection established from 125.35.5.253
+INFO  14:28:53,678 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  14:28:53,678 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  14:28:53,710 | james.imapserver | ID=-851337384 Connection closed for 125.35.5.253
+INFO  15:13:56,237 | james.imapserver | ID=1138221344 Connection established from 125.35.5.253
+INFO  15:13:56,237 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:13:56,269 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:13:56,315 | james.imapserver | ID=1138221344 Connection closed for 125.35.5.253
+INFO  15:13:56,347 | james.imapserver | ID=298084818 Connection established from 125.35.5.253
+INFO  15:13:56,347 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:13:56,362 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:13:56,378 | james.imapserver | ID=298084818 Connection closed for 125.35.5.253
+INFO  15:13:56,425 | james.imapserver | ID=84665841 Connection established from 125.35.5.253
+INFO  15:13:56,425 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:13:56,440 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:13:56,456 | james.imapserver | ID=84665841 Connection closed for 125.35.5.253
+INFO  15:13:56,472 | james.imapserver | ID=-885040796 Connection established from 125.35.5.253
+INFO  15:13:56,472 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:13:56,472 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:13:56,503 | james.imapserver | ID=-885040796 Connection closed for 125.35.5.253
+INFO  15:22:03,947 | james.imapserver | ID=-89605274 Connection established from 125.35.5.253
+INFO  15:22:03,962 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:22:03,994 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:22:04,009 | james.imapserver | ID=-89605274 Connection closed for 125.35.5.253
+INFO  15:22:04,040 | james.imapserver | ID=1940946354 Connection established from 125.35.5.253
+INFO  15:22:04,040 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:22:04,056 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:22:04,072 | james.imapserver | ID=1940946354 Connection closed for 125.35.5.253
+INFO  15:22:04,087 | james.imapserver | ID=-740547439 Connection established from 125.35.5.253
+INFO  15:22:04,103 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:22:04,103 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:22:04,134 | james.imapserver | ID=-740547439 Connection closed for 125.35.5.253
+INFO  15:22:04,165 | james.imapserver | ID=495391594 Connection established from 125.35.5.253
+INFO  15:22:04,181 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:22:04,181 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:22:04,197 | james.imapserver | ID=495391594 Connection closed for 125.35.5.253
+INFO  15:35:30,316 | james.imapserver | ID=-65046594 Connection established from 125.35.5.253
+INFO  15:35:30,332 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:35:30,363 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:35:30,410 | james.imapserver | ID=-65046594 Connection closed for 125.35.5.253
+INFO  15:35:30,441 | james.imapserver | ID=-1642222754 Connection established from 125.35.5.253
+INFO  15:35:30,473 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 8 ms.
+INFO  15:35:30,473 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:35:30,551 | james.imapserver | ID=-1642222754 Connection closed for 125.35.5.253
+INFO  15:35:30,566 | james.imapserver | ID=794511936 Connection established from 125.35.5.253
+INFO  15:35:30,566 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:35:30,582 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:35:30,598 | james.imapserver | ID=794511936 Connection closed for 125.35.5.253
+INFO  15:35:30,613 | james.imapserver | ID=-212375460 Connection established from 125.35.5.253
+INFO  15:35:30,629 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:35:30,629 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:35:30,644 | james.imapserver | ID=-212375460 Connection closed for 125.35.5.253
+INFO  15:46:19,747 | james.imapserver | ID=730516377 Connection established from 125.35.5.253
+INFO  15:46:19,762 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:46:19,793 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:46:19,840 | james.imapserver | ID=730516377 Connection closed for 125.35.5.253
+INFO  15:46:19,856 | james.imapserver | ID=1071936910 Connection established from 125.35.5.253
+INFO  15:46:19,872 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:46:19,887 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:46:19,903 | james.imapserver | ID=1071936910 Connection closed for 125.35.5.253
+INFO  15:46:19,918 | james.imapserver | ID=-1619546173 Connection established from 125.35.5.253
+INFO  15:46:19,934 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:46:19,934 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:46:19,965 | james.imapserver | ID=-1619546173 Connection closed for 125.35.5.253
+INFO  15:46:19,981 | james.imapserver | ID=-407720533 Connection established from 125.35.5.253
+INFO  15:46:19,997 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:46:19,997 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:46:20,028 | james.imapserver | ID=-407720533 Connection closed for 125.35.5.253
+INFO  15:58:39,850 | james.imapserver | ID=-805289558 Connection established from 125.35.5.253
+INFO  15:58:39,865 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:58:39,881 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:58:39,928 | james.imapserver | ID=-805289558 Connection closed for 125.35.5.253
+INFO  15:58:39,959 | james.imapserver | ID=-1798976701 Connection established from 125.35.5.253
+INFO  15:58:39,959 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:58:39,959 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:58:39,990 | james.imapserver | ID=-1798976701 Connection closed for 125.35.5.253
+INFO  15:58:39,990 | james.imapserver | ID=913945119 Connection established from 125.35.5.253
+INFO  15:58:40,006 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:58:40,006 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:58:40,037 | james.imapserver | ID=913945119 Connection closed for 125.35.5.253
+INFO  15:58:40,037 | james.imapserver | ID=-582847255 Connection established from 125.35.5.253
+INFO  15:58:40,069 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  15:58:40,069 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  15:58:40,084 | james.imapserver | ID=-582847255 Connection closed for 125.35.5.253
+INFO  16:01:52,118 | james.imapserver | ID=1440990394 Connection established from 125.35.5.253
+INFO  16:01:52,133 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:01:52,149 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:01:52,165 | james.imapserver | ID=1440990394 Connection closed for 125.35.5.253
+INFO  16:01:52,212 | james.imapserver | ID=1716231178 Connection established from 125.35.5.253
+INFO  16:01:52,212 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:01:52,227 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:01:52,243 | james.imapserver | ID=1716231178 Connection closed for 125.35.5.253
+INFO  16:01:52,258 | james.imapserver | ID=1552411538 Connection established from 125.35.5.253
+INFO  16:01:52,274 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:01:52,274 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:01:52,305 | james.imapserver | ID=1552411538 Connection closed for 125.35.5.253
+INFO  16:01:52,321 | james.imapserver | ID=-1983970385 Connection established from 125.35.5.253
+INFO  16:01:52,321 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:01:52,337 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:01:52,352 | james.imapserver | ID=-1983970385 Connection closed for 125.35.5.253
+INFO  16:03:44,104 | james.imapserver | ID=-572750920 Connection established from 125.35.5.253
+INFO  16:03:44,104 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:03:44,119 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:03:44,151 | james.imapserver | ID=-572750920 Connection closed for 125.35.5.253
+INFO  16:03:44,151 | james.imapserver | ID=-1989677952 Connection established from 125.35.5.253
+INFO  16:03:44,166 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:03:44,166 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:03:44,182 | james.imapserver | ID=-1989677952 Connection closed for 125.35.5.253
+INFO  16:03:44,213 | james.imapserver | ID=-1702787130 Connection established from 125.35.5.253
+INFO  16:03:44,213 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:03:44,229 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:03:44,244 | james.imapserver | ID=-1702787130 Connection closed for 125.35.5.253
+INFO  16:03:44,307 | james.imapserver | ID=-1266948672 Connection established from 125.35.5.253
+INFO  16:03:44,307 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:03:44,307 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:03:44,338 | james.imapserver | ID=-1266948672 Connection closed for 125.35.5.253
+INFO  16:06:45,528 | james.imapserver | ID=455836436 Connection established from 125.35.5.253
+INFO  16:06:45,559 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:06:45,575 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:06:45,606 | james.imapserver | ID=455836436 Connection closed for 125.35.5.253
+INFO  16:06:45,622 | james.imapserver | ID=559034136 Connection established from 125.35.5.253
+INFO  16:06:45,637 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:06:45,637 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:06:45,653 | james.imapserver | ID=559034136 Connection closed for 125.35.5.253
+INFO  16:06:45,668 | james.imapserver | ID=-1129502908 Connection established from 125.35.5.253
+INFO  16:06:45,684 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:06:45,684 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:06:45,715 | james.imapserver | ID=-1129502908 Connection closed for 125.35.5.253
+INFO  16:06:45,762 | james.imapserver | ID=1646853486 Connection established from 125.35.5.253
+INFO  16:06:45,778 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:06:45,778 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:06:45,809 | james.imapserver | ID=1646853486 Connection closed for 125.35.5.253
+INFO  16:08:18,170 | james.imapserver | ID=1036611404 Connection established from 125.35.5.253
+INFO  16:08:18,170 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:08:18,185 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:08:18,232 | james.imapserver | ID=1036611404 Connection closed for 125.35.5.253
+INFO  16:08:18,248 | james.imapserver | ID=-1847925477 Connection established from 125.35.5.253
+INFO  16:08:18,263 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:08:18,263 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:08:18,279 | james.imapserver | ID=-1847925477 Connection closed for 125.35.5.253
+INFO  16:08:18,295 | james.imapserver | ID=179176998 Connection established from 125.35.5.253
+INFO  16:08:18,310 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:08:18,310 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:08:18,326 | james.imapserver | ID=179176998 Connection closed for 125.35.5.253
+INFO  16:08:18,357 | james.imapserver | ID=-1360415172 Connection established from 125.35.5.253
+INFO  16:08:18,373 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:08:18,373 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:08:18,404 | james.imapserver | ID=-1360415172 Connection closed for 125.35.5.253
+INFO  16:16:12,488 | james.imapserver | ID=-1930001210 Connection established from 125.35.5.253
+INFO  16:16:12,504 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:16:12,504 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:16:12,566 | james.imapserver | ID=-1930001210 Connection closed for 125.35.5.253
+INFO  16:16:12,582 | james.imapserver | ID=678022128 Connection established from 125.35.5.253
+INFO  16:16:12,598 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:16:12,598 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:16:12,629 | james.imapserver | ID=678022128 Connection closed for 125.35.5.253
+INFO  16:16:12,691 | james.imapserver | ID=1259887120 Connection established from 125.35.5.253
+INFO  16:16:12,691 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:16:12,707 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:16:12,723 | james.imapserver | ID=1259887120 Connection closed for 125.35.5.253
+INFO  16:16:12,738 | james.imapserver | ID=-707117628 Connection established from 125.35.5.253
+INFO  16:16:12,738 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:16:12,738 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:16:12,769 | james.imapserver | ID=-707117628 Connection closed for 125.35.5.253
+INFO  16:32:45,191 | james.imapserver | ID=1983946976 Connection established from 125.35.5.253
+INFO  16:32:45,206 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:32:45,222 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:32:45,269 | james.imapserver | ID=1983946976 Connection closed for 125.35.5.253
+INFO  16:32:45,284 | james.imapserver | ID=190519965 Connection established from 125.35.5.253
+INFO  16:32:45,300 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:32:45,300 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:32:45,331 | james.imapserver | ID=190519965 Connection closed for 125.35.5.253
+INFO  16:32:45,331 | james.imapserver | ID=-1592190111 Connection established from 125.35.5.253
+INFO  16:32:45,347 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:32:45,347 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:32:45,378 | james.imapserver | ID=-1592190111 Connection closed for 125.35.5.253
+INFO  16:32:45,394 | james.imapserver | ID=-466295078 Connection established from 125.35.5.253
+INFO  16:32:45,394 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:32:45,394 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:32:45,425 | james.imapserver | ID=-466295078 Connection closed for 125.35.5.253
+INFO  16:39:34,774 | james.imapserver | ID=145805381 Connection established from 125.35.5.253
+INFO  16:39:34,790 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:39:34,790 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:39:34,836 | james.imapserver | ID=145805381 Connection closed for 125.35.5.253
+INFO  16:39:34,852 | james.imapserver | ID=-1481337971 Connection established from 125.35.5.253
+INFO  16:39:34,868 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:39:34,868 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:39:34,899 | james.imapserver | ID=-1481337971 Connection closed for 125.35.5.253
+INFO  16:39:34,915 | james.imapserver | ID=1228189092 Connection established from 125.35.5.253
+INFO  16:39:34,930 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:39:34,946 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:39:34,961 | james.imapserver | ID=1228189092 Connection closed for 125.35.5.253
+INFO  16:39:34,977 | james.imapserver | ID=1153964786 Connection established from 125.35.5.253
+INFO  16:39:34,977 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:39:34,993 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:39:35,008 | james.imapserver | ID=1153964786 Connection closed for 125.35.5.253
+INFO  16:41:36,302 | james.imapserver | ID=-1928139134 Connection established from 125.35.5.253
+INFO  16:41:36,318 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:41:36,318 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:41:36,349 | james.imapserver | ID=-1928139134 Connection closed for 125.35.5.253
+INFO  16:41:36,349 | james.imapserver | ID=1433628307 Connection established from 125.35.5.253
+INFO  16:41:36,365 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:41:36,365 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:41:36,380 | james.imapserver | ID=1433628307 Connection closed for 125.35.5.253
+INFO  16:41:36,396 | james.imapserver | ID=-1033692340 Connection established from 125.35.5.253
+INFO  16:41:36,411 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:41:36,411 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:41:36,443 | james.imapserver | ID=-1033692340 Connection closed for 125.35.5.253
+INFO  16:41:36,536 | james.imapserver | ID=-1064337986 Connection established from 125.35.5.253
+INFO  16:41:36,536 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:41:36,552 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:41:36,568 | james.imapserver | ID=-1064337986 Connection closed for 125.35.5.253
+INFO  16:43:20,987 | james.imapserver | ID=1885285080 Connection established from 125.35.5.253
+INFO  16:43:21,003 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:43:21,003 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:43:21,018 | james.imapserver | ID=1885285080 Connection closed for 125.35.5.253
+INFO  16:43:21,034 | james.imapserver | ID=1061183278 Connection established from 125.35.5.253
+INFO  16:43:21,049 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:43:21,049 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:43:21,081 | james.imapserver | ID=1061183278 Connection closed for 125.35.5.253
+INFO  16:43:21,081 | james.imapserver | ID=-234366816 Connection established from 125.35.5.253
+INFO  16:43:21,096 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:43:21,096 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:43:21,127 | james.imapserver | ID=-234366816 Connection closed for 125.35.5.253
+INFO  16:43:21,206 | james.imapserver | ID=-1186388197 Connection established from 125.35.5.253
+INFO  16:43:21,237 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:43:21,268 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:43:21,299 | james.imapserver | ID=-1186388197 Connection closed for 125.35.5.253
+INFO  16:44:01,595 | james.imapserver | ID=1568048723 Connection established from 125.35.5.253
+INFO  16:44:01,611 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:44:01,611 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:44:01,642 | james.imapserver | ID=1568048723 Connection closed for 125.35.5.253
+INFO  16:44:01,689 | james.imapserver | ID=1130838798 Connection established from 125.35.5.253
+INFO  16:44:01,705 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:44:01,705 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:44:01,736 | james.imapserver | ID=1130838798 Connection closed for 125.35.5.253
+INFO  16:44:01,798 | james.imapserver | ID=1722696180 Connection established from 125.35.5.253
+INFO  16:44:01,814 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:44:01,814 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:44:01,845 | james.imapserver | ID=1722696180 Connection closed for 125.35.5.253
+INFO  16:44:01,986 | james.imapserver | ID=1560942381 Connection established from 125.35.5.253
+INFO  16:44:01,986 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:44:02,001 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:44:02,017 | james.imapserver | ID=1560942381 Connection closed for 125.35.5.253
+INFO  16:44:25,298 | james.imapserver | ID=-589258981 Connection established from 125.35.5.253
+INFO  16:44:25,313 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:44:25,313 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:44:25,329 | james.imapserver | ID=-589258981 Connection closed for 125.35.5.253
+INFO  16:44:25,876 | james.imapserver | ID=-977009449 Connection established from 125.35.5.253
+INFO  16:44:25,891 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:44:25,891 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:44:25,907 | james.imapserver | ID=-977009449 Connection closed for 125.35.5.253
+INFO  16:44:26,016 | james.imapserver | ID=-1772926695 Connection established from 125.35.5.253
+INFO  16:44:26,016 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:44:26,048 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 20 ms.
+INFO  16:44:26,063 | james.imapserver | ID=-1772926695 Connection closed for 125.35.5.253
+INFO  16:44:26,095 | james.imapserver | ID=-597473080 Connection established from 125.35.5.253
+INFO  16:44:26,110 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:44:26,110 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:44:26,141 | james.imapserver | ID=-597473080 Connection closed for 125.35.5.253
+INFO  16:45:53,436 | james.imapserver | ID=1565154569 Connection established from 125.35.5.253
+INFO  16:45:53,436 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:45:53,452 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:45:53,467 | james.imapserver | ID=1565154569 Connection closed for 125.35.5.253
+INFO  16:45:53,530 | james.imapserver | ID=-1926275292 Connection established from 125.35.5.253
+INFO  16:45:53,545 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:45:53,545 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:45:53,577 | james.imapserver | ID=-1926275292 Connection closed for 125.35.5.253
+INFO  16:45:53,686 | james.imapserver | ID=345507350 Connection established from 125.35.5.253
+INFO  16:45:53,686 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:45:53,702 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:45:53,717 | james.imapserver | ID=345507350 Connection closed for 125.35.5.253
+INFO  16:45:53,952 | james.imapserver | ID=1775961617 Connection established from 125.35.5.253
+INFO  16:45:53,967 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:45:53,967 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:45:53,999 | james.imapserver | ID=1775961617 Connection closed for 125.35.5.253
+INFO  16:50:08,242 | james.imapserver | ID=996823933 Connection established from 125.35.5.253
+INFO  16:50:08,242 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:50:08,273 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:50:08,289 | james.imapserver | ID=996823933 Connection closed for 125.35.5.253
+INFO  16:50:08,320 | james.imapserver | ID=1460710350 Connection established from 125.35.5.253
+INFO  16:50:08,320 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:50:08,336 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:50:08,367 | james.imapserver | ID=1460710350 Connection closed for 125.35.5.253
+INFO  16:50:08,383 | james.imapserver | ID=2059411223 Connection established from 125.35.5.253
+INFO  16:50:08,383 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:50:08,398 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:50:08,430 | james.imapserver | ID=2059411223 Connection closed for 125.35.5.253
+INFO  16:50:08,430 | james.imapserver | ID=-7052443 Connection established from 125.35.5.253
+INFO  16:50:08,445 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:50:08,445 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  16:50:08,476 | james.imapserver | ID=-7052443 Connection closed for 125.35.5.253
+INFO  17:01:58,536 | james.imapserver | ID=1692986478 Connection established from 125.35.5.253
+INFO  17:01:58,536 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:01:58,568 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:01:58,615 | james.imapserver | ID=1692986478 Connection closed for 125.35.5.253
+INFO  17:01:58,646 | james.imapserver | ID=-648258707 Connection established from 125.35.5.253
+INFO  17:01:58,646 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:01:58,646 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:01:58,677 | james.imapserver | ID=-648258707 Connection closed for 125.35.5.253
+INFO  17:01:58,693 | james.imapserver | ID=-2112210011 Connection established from 125.35.5.253
+INFO  17:01:58,693 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:01:58,708 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:01:58,724 | james.imapserver | ID=-2112210011 Connection closed for 125.35.5.253
+INFO  17:01:58,740 | james.imapserver | ID=-1053227912 Connection established from 125.35.5.253
+INFO  17:01:58,740 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:01:58,740 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:01:58,771 | james.imapserver | ID=-1053227912 Connection closed for 125.35.5.253
+INFO  17:21:15,555 | james.imapserver | ID=87535809 Connection established from 125.35.5.253
+INFO  17:21:15,555 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:21:15,587 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:21:15,633 | james.imapserver | ID=87535809 Connection closed for 125.35.5.253
+INFO  17:21:15,665 | james.imapserver | ID=1252602142 Connection established from 125.35.5.253
+INFO  17:21:15,665 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:21:15,680 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:21:15,696 | james.imapserver | ID=1252602142 Connection closed for 125.35.5.253
+INFO  17:21:15,712 | james.imapserver | ID=-2137000169 Connection established from 125.35.5.253
+INFO  17:21:15,727 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:21:15,727 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:21:15,743 | james.imapserver | ID=-2137000169 Connection closed for 125.35.5.253
+INFO  17:21:15,774 | james.imapserver | ID=-623407167 Connection established from 125.35.5.253
+INFO  17:21:15,790 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:21:15,790 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:21:15,805 | james.imapserver | ID=-623407167 Connection closed for 125.35.5.253
+INFO  17:25:01,243 | james.imapserver | ID=1579434462 Connection established from 125.35.5.253
+INFO  17:25:01,258 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:25:01,274 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:25:01,305 | james.imapserver | ID=1579434462 Connection closed for 125.35.5.253
+INFO  17:25:01,337 | james.imapserver | ID=292519558 Connection established from 125.35.5.253
+INFO  17:25:01,337 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:25:01,352 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:25:01,383 | james.imapserver | ID=292519558 Connection closed for 125.35.5.253
+INFO  17:25:01,415 | james.imapserver | ID=-1568799161 Connection established from 125.35.5.253
+INFO  17:25:01,415 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:25:01,430 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:25:01,446 | james.imapserver | ID=-1568799161 Connection closed for 125.35.5.253
+INFO  17:25:01,462 | james.imapserver | ID=732656661 Connection established from 125.35.5.253
+INFO  17:25:01,477 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  17:25:01,477 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  17:25:01,524 | james.imapserver | ID=732656661 Connection closed for 125.35.5.253
+INFO  18:32:32,232 | james.imapserver | ID=1705564289 Connection established from 125.35.5.253
+INFO  18:32:32,232 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:32:32,263 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:32:32,326 | james.imapserver | ID=1705564289 Connection closed for 125.35.5.253
+INFO  18:32:32,341 | james.imapserver | ID=187800599 Connection established from 125.35.5.253
+INFO  18:32:32,357 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:32:32,357 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:32:32,388 | james.imapserver | ID=187800599 Connection closed for 125.35.5.253
+INFO  18:32:32,388 | james.imapserver | ID=1762428041 Connection established from 125.35.5.253
+INFO  18:32:32,404 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:32:32,404 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:32:32,435 | james.imapserver | ID=1762428041 Connection closed for 125.35.5.253
+INFO  18:32:32,451 | james.imapserver | ID=-202840942 Connection established from 125.35.5.253
+INFO  18:32:32,466 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:32:32,466 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:32:32,498 | james.imapserver | ID=-202840942 Connection closed for 125.35.5.253
+INFO  18:37:19,468 | james.imapserver | ID=-129671987 Connection established from 125.35.5.253
+INFO  18:37:19,468 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:37:19,484 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:37:19,499 | james.imapserver | ID=-129671987 Connection closed for 125.35.5.253
+INFO  18:37:19,499 | james.imapserver | ID=-1837293167 Connection established from 125.35.5.253
+INFO  18:37:19,515 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:37:19,515 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:37:19,562 | james.imapserver | ID=-1837293167 Connection closed for 125.35.5.253
+INFO  18:37:19,578 | james.imapserver | ID=-473261095 Connection established from 125.35.5.253
+INFO  18:37:19,593 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:37:19,593 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:37:19,609 | james.imapserver | ID=-473261095 Connection closed for 125.35.5.253
+INFO  18:37:19,640 | james.imapserver | ID=1492266686 Connection established from 125.35.5.253
+INFO  18:37:19,656 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:37:19,656 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:37:19,671 | james.imapserver | ID=1492266686 Connection closed for 125.35.5.253
+INFO  18:41:30,907 | james.imapserver | ID=-1337365594 Connection established from 125.35.5.253
+INFO  18:41:30,907 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:41:30,939 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:41:30,954 | james.imapserver | ID=-1337365594 Connection closed for 125.35.5.253
+INFO  18:41:30,985 | james.imapserver | ID=1806213836 Connection established from 125.35.5.253
+INFO  18:41:30,985 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:41:31,001 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:41:31,017 | james.imapserver | ID=1806213836 Connection closed for 125.35.5.253
+INFO  18:41:31,032 | james.imapserver | ID=-244319149 Connection established from 125.35.5.253
+INFO  18:41:31,032 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:41:31,048 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:41:31,064 | james.imapserver | ID=-244319149 Connection closed for 125.35.5.253
+INFO  18:41:31,079 | james.imapserver | ID=-2113286417 Connection established from 125.35.5.253
+INFO  18:41:31,095 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:41:31,095 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:41:31,126 | james.imapserver | ID=-2113286417 Connection closed for 125.35.5.253
+INFO  18:52:42,083 | james.imapserver | ID=-1607934657 Connection established from 125.35.5.253
+INFO  18:52:42,099 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:52:42,099 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:52:42,162 | james.imapserver | ID=-1607934657 Connection closed for 125.35.5.253
+INFO  18:52:42,162 | james.imapserver | ID=1948906675 Connection established from 125.35.5.253
+INFO  18:52:42,177 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:52:42,177 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:52:42,208 | james.imapserver | ID=1948906675 Connection closed for 125.35.5.253
+INFO  18:52:42,224 | james.imapserver | ID=-2124818713 Connection established from 125.35.5.253
+INFO  18:52:42,224 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:52:42,240 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:52:42,271 | james.imapserver | ID=-2124818713 Connection closed for 125.35.5.253
+INFO  18:52:42,271 | james.imapserver | ID=-1830361364 Connection established from 125.35.5.253
+INFO  18:52:42,287 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:52:42,287 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:52:42,318 | james.imapserver | ID=-1830361364 Connection closed for 125.35.5.253
+INFO  18:53:42,396 | james.imapserver | ID=-42360591 Connection established from 125.35.5.253
+INFO  18:53:42,396 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:53:42,412 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:53:42,428 | james.imapserver | ID=-42360591 Connection closed for 125.35.5.253
+INFO  18:53:42,443 | james.imapserver | ID=60636819 Connection established from 125.35.5.253
+INFO  18:53:42,443 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:53:42,459 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:53:42,474 | james.imapserver | ID=60636819 Connection closed for 125.35.5.253
+INFO  18:53:42,490 | james.imapserver | ID=532696908 Connection established from 125.35.5.253
+INFO  18:53:42,506 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:53:42,506 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:53:42,521 | james.imapserver | ID=532696908 Connection closed for 125.35.5.253
+INFO  18:53:42,537 | james.imapserver | ID=130546388 Connection established from 125.35.5.253
+INFO  18:53:42,553 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:53:42,553 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  18:53:42,584 | james.imapserver | ID=130546388 Connection closed for 125.35.5.253
+INFO  19:19:49,422 | james.imapserver | ID=80937550 Connection established from 162.243.143.136
+INFO  19:19:59,281 | james.imapserver | ID=80937550 Connection closed for 162.243.143.136
+INFO  19:30:04,988 | james.imapserver | ID=-1873454187 Connection established from 125.35.5.253
+INFO  19:30:04,988 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  19:30:05,004 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  19:30:05,051 | james.imapserver | ID=-1873454187 Connection closed for 125.35.5.253
+INFO  19:30:05,067 | james.imapserver | ID=477927732 Connection established from 125.35.5.253
+INFO  19:30:05,067 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  19:30:05,082 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  19:30:05,098 | james.imapserver | ID=477927732 Connection closed for 125.35.5.253
+INFO  19:30:05,113 | james.imapserver | ID=972691518 Connection established from 125.35.5.253
+INFO  19:30:05,129 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  19:30:05,129 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  19:30:05,160 | james.imapserver | ID=972691518 Connection closed for 125.35.5.253
+INFO  19:30:05,238 | james.imapserver | ID=565422966 Connection established from 125.35.5.253
+INFO  19:30:05,238 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  19:30:05,254 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-AUTHENTICATE: 0 ms.
+INFO  19:30:05,270 | james.imapserver | ID=565422966 Connection closed for 125.35.5.253

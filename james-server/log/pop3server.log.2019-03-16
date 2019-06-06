@@ -1,0 +1,14 @@
+INFO  04:41:45,239 | james.pop3server | Id='653908713' User='' Connection established from 127.0.0.1
+INFO  04:41:45,255 | james.pop3server | Id='653908713' User='' Connection closed for 127.0.0.1
+INFO  15:29:01,670 | james.pop3server | POP3 Service bound to: 0.0.0.0:110
+INFO  15:29:01,670 | james.pop3server | POP3 Service is running on: iZzg6iw2ooe4g6Z
+INFO  15:29:01,670 | james.pop3server | POP3 Service handler hello name is: iZzg6iw2ooe4g6Z
+INFO  15:29:01,670 | james.pop3server | POP3 Service handler connection timeout is: 1200
+INFO  15:29:01,670 | james.pop3server | POP3 Service connection backlog is: 200
+INFO  15:29:01,811 | james.pop3server | Init POP3 Service done
+INFO  16:53:01,243 | james.pop3server | POP3 Service bound to: 0.0.0.0:110
+INFO  16:53:01,243 | james.pop3server | POP3 Service is running on: iZzg6iw2ooe4g6Z
+INFO  16:53:01,243 | james.pop3server | POP3 Service handler hello name is: iZzg6iw2ooe4g6Z
+INFO  16:53:01,243 | james.pop3server | POP3 Service handler connection timeout is: 1200
+INFO  16:53:01,243 | james.pop3server | POP3 Service connection backlog is: 200
+INFO  16:53:01,414 | james.pop3server | Init POP3 Service done

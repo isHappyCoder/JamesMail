@@ -1,0 +1,24 @@
+INFO  10:27:37,854 | james.dnsservice | Autodiscovery is enabled - trying to discover your system's DNS Servers
+INFO  10:27:37,891 | james.dnsservice | Adding autodiscovered server 192.168.102.2
+INFO  10:27:37,892 | james.dnsservice | Adding autodiscovered server 192.168.102.3
+INFO  10:27:37,892 | james.dnsservice | Adding autodiscovered server 10.10.6.11
+INFO  10:27:37,892 | james.dnsservice | Adding autodiscovered server 192.168.8.57
+INFO  10:27:37,892 | james.dnsservice | Adding autodiscovered search path Ambow.com.
+INFO  10:27:37,892 | james.dnsservice | Adding autodiscovered search path ufsoft.com.cn.
+INFO  10:27:37,893 | james.dnsservice | DNS Server is: 192.168.102.2
+INFO  10:27:37,893 | james.dnsservice | DNS Server is: 192.168.102.3
+INFO  10:27:37,894 | james.dnsservice | DNS Server is: 10.10.6.11
+INFO  10:27:37,894 | james.dnsservice | DNS Server is: 192.168.8.57
+INFO  10:27:37,905 | james.dnsservice | Registered cache, resolver and search paths as DNSJava defaults
+INFO  14:36:48,996 | james.dnsservice | Autodiscovery is enabled - trying to discover your system's DNS Servers
+INFO  14:36:49,017 | james.dnsservice | Adding autodiscovered server 192.168.102.2
+INFO  14:36:49,017 | james.dnsservice | Adding autodiscovered server 192.168.102.3
+INFO  14:36:49,017 | james.dnsservice | Adding autodiscovered server 10.10.6.11
+INFO  14:36:49,017 | james.dnsservice | Adding autodiscovered server 192.168.8.57
+INFO  14:36:49,017 | james.dnsservice | Adding autodiscovered search path Ambow.com.
+INFO  14:36:49,017 | james.dnsservice | Adding autodiscovered search path ufsoft.com.cn.
+INFO  14:36:49,017 | james.dnsservice | DNS Server is: 192.168.102.2
+INFO  14:36:49,017 | james.dnsservice | DNS Server is: 192.168.102.3
+INFO  14:36:49,017 | james.dnsservice | DNS Server is: 10.10.6.11
+INFO  14:36:49,017 | james.dnsservice | DNS Server is: 192.168.8.57
+INFO  14:36:49,036 | james.dnsservice | Registered cache, resolver and search paths as DNSJava defaults

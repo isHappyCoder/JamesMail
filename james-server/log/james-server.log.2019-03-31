@@ -1,0 +1,4 @@
+INFO  14:26:02,826 | james.imapserver | ID=-1901909013 Connection established from 139.162.109.245
+INFO  14:26:02,990 | james.imapserver | ID=-1901909013 Connection closed for 139.162.109.245
+INFO  22:58:19,012 | james.imapserver | ID=-83227643 Connection established from 198.108.66.16
+INFO  22:58:20,215 | james.imapserver | ID=-83227643 Connection closed for 198.108.66.16

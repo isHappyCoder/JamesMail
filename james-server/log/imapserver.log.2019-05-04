@@ -1,0 +1,15 @@
+INFO  02:10:12,212 | james.imapserver | ID=-1391880198 Connection established from 106.15.76.92
+INFO  02:10:12,228 | james.imapserver | ID=-1391880198 Missing command implementation for commmand /
+INFO  02:10:12,243 | james.imapserver | ID=-1391880198 Connection closed for 106.15.76.92
+INFO  05:32:35,309 | james.imapserver | ID=-1495432680 Connection established from 107.170.200.60
+INFO  05:32:45,152 | james.imapserver | ID=-1495432680 Connection closed for 107.170.200.60
+INFO  05:57:10,738 | james.imapserver | ID=1640551326 Connection established from 185.173.35.33
+INFO  05:57:11,832 | james.imapserver | ID=1640551326 Connection closed for 185.173.35.33
+INFO  08:15:54,354 | james.imapserver | ID=1804430462 Connection established from 122.224.158.196
+INFO  08:45:54,576 | james.imapserver | ID=1804430462 Logout client 122.224.158.196 (122.224.158.196) because it idled for too long...
+INFO  08:45:54,592 | james.imapserver | ID=1804430462 Connection closed for 122.224.158.196
+INFO  08:59:59,587 | james.imapserver | ID=-383897785 Connection established from 71.6.146.186
+INFO  09:00:00,118 | james.imapserver | ID=-383897785 Missing command implementation for commmand id
+INFO  09:00:00,118 | james.imapserver | ID=-383897785 Connection closed for 71.6.146.186
+INFO  14:39:46,968 | james.imapserver | ID=-724985095 Connection established from 62.4.14.198
+INFO  14:39:57,968 | james.imapserver | ID=-724985095 Connection closed for 62.4.14.198

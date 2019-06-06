@@ -1,0 +1,12 @@
+INFO  18:01:10,428 | james.dnsservice | Autodiscovery is enabled - trying to discover your system's DNS Servers
+INFO  18:01:10,457 | james.dnsservice | Adding autodiscovered server 192.168.102.2
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered server 192.168.102.3
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered server 10.10.6.11
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered server 192.168.8.57
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered search path Ambow.com.
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered search path ufsoft.com.cn.
+INFO  18:01:10,459 | james.dnsservice | DNS Server is: 192.168.102.2
+INFO  18:01:10,459 | james.dnsservice | DNS Server is: 192.168.102.3
+INFO  18:01:10,459 | james.dnsservice | DNS Server is: 10.10.6.11
+INFO  18:01:10,460 | james.dnsservice | DNS Server is: 192.168.8.57
+INFO  18:01:10,480 | james.dnsservice | Registered cache, resolver and search paths as DNSJava defaults

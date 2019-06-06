@@ -1,0 +1,26 @@
+INFO  02:29:23,631 | james.imapserver | ID=553294626 Connection established from 47.94.52.159
+INFO  02:29:23,640 | james.imapserver | ID=553294626 Missing command implementation for commmand /
+INFO  02:29:23,643 | james.imapserver | ID=553294626 Connection closed for 47.94.52.159
+INFO  02:44:47,188 | james.imapserver | ID=-309486595 Connection established from 107.170.201.99
+INFO  02:44:57,020 | james.imapserver | ID=-309486595 Connection closed for 107.170.201.99
+INFO  04:01:45,880 | james.smtpserver | Id='-907390800' User='' Connection established from 127.0.0.1
+INFO  04:01:47,388 | james.smtpserver | Id='-907390800' User='' Connection closed for 127.0.0.1
+INFO  04:01:47,389 | james.smtpserver | Id='-907390800' User='' Connection closed for 127.0.0.1
+INFO  04:01:47,389 | james.pop3server | Id='948798514' User='' Connection established from 127.0.0.1
+INFO  04:01:47,392 | james.pop3server | Id='948798514' User='' Connection closed for 127.0.0.1
+INFO  04:01:48,893 | james.imapserver | ID=-1098214575 Connection established from 127.0.0.1
+INFO  04:01:48,894 | james.imapserver | ID=-1098214575 Connection closed for 127.0.0.1
+WARN  04:02:30,914 | org.apache.activemq.broker.TransportConnection.Transport | Transport Connection to: tcp://127.0.0.1:62101 failed: java.net.SocketException: Connection reset
+INFO  08:05:24,203 | james.imapserver | ID=-55628217 Connection established from 196.52.43.106
+INFO  08:05:24,612 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  08:05:25,350 | james.imapserver | ID=-55628217 Connection closed for 196.52.43.106
+INFO  08:10:00,045 | james.imapserver | ID=-219701072 Connection established from 125.64.94.197
+INFO  08:10:00,362 | james.imapserver | ID=-219701072 Missing command implementation for commmand /
+INFO  08:10:00,365 | james.imapserver | ID=-219701072 Connection closed for 125.64.94.197
+INFO  09:26:25,225 | james.imapserver | ID=-1053575768 Connection established from 184.154.74.66
+INFO  09:26:25,613 | james.imapserver | ID=-1053575768 Connection closed for 184.154.74.66
+INFO  09:26:30,260 | james.imapserver | ID=1624117970 Connection established from 184.154.74.66
+INFO  09:26:30,896 | james.imapserver | ID=1624117970 Connection closed for 184.154.74.66
+INFO  10:04:46,207 | james.imapserver | ID=1934786503 Connection established from 119.23.139.140
+INFO  10:04:46,241 | james.imapserver | ID=1934786503 Missing command implementation for commmand /
+INFO  10:04:46,244 | james.imapserver | ID=1934786503 Connection closed for 119.23.139.140

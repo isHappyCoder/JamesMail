@@ -1,0 +1,36 @@
+INFO  10:27:51,786 | james.imapserver | IMAP Service bound to: 0.0.0.0:143
+INFO  10:27:51,789 | james.imapserver | IMAP Service is running on: PC201807301235
+INFO  10:27:51,790 | james.imapserver | IMAP Service handler hello name is: PC201807301235
+INFO  10:27:51,793 | james.imapserver | IMAP Service handler connection timeout is: 300
+INFO  10:27:51,793 | james.imapserver | IMAP Service connection backlog is: 200
+INFO  10:27:51,809 | james.imapserver | Init IMAP Service done
+INFO  10:32:19,772 | james.imapserver | ID=1717292476 Connection established from 127.0.0.1
+INFO  10:32:19,928 | james.imapserver | ID=1717292476 Connection closed for 127.0.0.1
+INFO  10:32:19,935 | james.imapserver | ID=-296563511 Connection established from 127.0.0.1
+INFO  10:32:19,955 | james.imapserver | ID=-296563511 Connection closed for 127.0.0.1
+INFO  10:32:20,007 | james.imapserver | ID=1592168331 Connection established from 127.0.0.1
+INFO  10:32:20,024 | james.imapserver | ID=1592168331 Connection closed for 127.0.0.1
+INFO  10:32:20,059 | james.imapserver | ID=1444565147 Connection established from 127.0.0.1
+INFO  10:32:20,077 | james.imapserver | ID=1444565147 Connection closed for 127.0.0.1
+INFO  10:39:19,166 | james.imapserver | ID=-66589821 Connection established from 127.0.0.1
+INFO  10:39:19,266 | james.imapserver | ID=-66589821 Connection closed for 127.0.0.1
+INFO  10:39:19,270 | james.imapserver | ID=-499402240 Connection established from 127.0.0.1
+INFO  10:39:19,291 | james.imapserver | ID=-499402240 Connection closed for 127.0.0.1
+INFO  10:39:19,309 | james.imapserver | ID=1108366170 Connection established from 127.0.0.1
+INFO  10:39:19,326 | james.imapserver | ID=1108366170 Connection closed for 127.0.0.1
+INFO  10:39:19,349 | james.imapserver | ID=-823236518 Connection established from 127.0.0.1
+INFO  10:39:19,369 | james.imapserver | ID=-823236518 Connection closed for 127.0.0.1
+INFO  14:36:56,563 | james.imapserver | IMAP Service bound to: 0.0.0.0:143
+INFO  14:36:56,566 | james.imapserver | IMAP Service is running on: PC201807301235
+INFO  14:36:56,566 | james.imapserver | IMAP Service handler hello name is: PC201807301235
+INFO  14:36:56,566 | james.imapserver | IMAP Service handler connection timeout is: 300
+INFO  14:36:56,566 | james.imapserver | IMAP Service connection backlog is: 200
+INFO  14:36:56,583 | james.imapserver | Init IMAP Service done
+INFO  14:41:34,357 | james.imapserver | ID=1574605760 Connection established from 127.0.0.1
+INFO  14:41:34,955 | james.imapserver | ID=1574605760 Connection closed for 127.0.0.1
+INFO  14:41:34,956 | james.imapserver | ID=-2021166133 Connection established from 127.0.0.1
+INFO  14:41:35,056 | james.imapserver | ID=-2021166133 Connection closed for 127.0.0.1
+INFO  14:41:35,057 | james.imapserver | ID=793465217 Connection established from 127.0.0.1
+INFO  14:41:35,156 | james.imapserver | ID=345425723 Connection established from 127.0.0.1
+INFO  14:41:35,158 | james.imapserver | ID=793465217 Connection closed for 127.0.0.1
+INFO  14:41:35,283 | james.imapserver | ID=345425723 Connection closed for 127.0.0.1

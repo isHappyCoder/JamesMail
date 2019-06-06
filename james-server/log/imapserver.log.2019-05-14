@@ -1,0 +1,8 @@
+INFO  00:42:18,996 | james.imapserver | ID=-1633186659 Connection established from 47.97.10.19
+INFO  00:42:19,012 | james.imapserver | ID=-1633186659 Missing command implementation for commmand /
+INFO  00:42:19,028 | james.imapserver | ID=-1633186659 Connection closed for 47.97.10.19
+INFO  05:54:01,778 | james.imapserver | ID=794052439 Connection established from 47.97.16.6
+INFO  05:54:01,856 | james.imapserver | ID=794052439 Missing command implementation for commmand /
+INFO  05:54:01,856 | james.imapserver | ID=794052439 Connection closed for 47.97.16.6
+INFO  18:15:34,337 | james.imapserver | ID=-2122457359 Connection established from 162.243.149.136
+INFO  18:15:44,197 | james.imapserver | ID=-2122457359 Connection closed for 162.243.149.136

@@ -1,0 +1,24 @@
+INFO  00:09:14,100 | james.imapserver | ID=-1815235448 Connection established from 47.97.23.199
+INFO  00:09:14,116 | james.imapserver | ID=-1815235448 Missing command implementation for commmand /
+INFO  00:09:14,116 | james.imapserver | ID=-1815235448 Connection closed for 47.97.23.199
+INFO  05:09:52,768 | james.imapserver | ID=178362267 Connection established from 106.15.76.85
+INFO  05:09:52,768 | james.imapserver | ID=178362267 Missing command implementation for commmand /
+INFO  05:09:52,768 | james.imapserver | ID=178362267 Connection closed for 106.15.76.85
+INFO  06:56:19,702 | james.imapserver | ID=2106677460 Connection established from 80.82.70.118
+INFO  06:56:19,968 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  06:56:20,562 | james.imapserver | ID=2106677460 Connection closed for 80.82.70.118
+INFO  08:15:02,462 | james.imapserver | ID=-403356896 Connection established from 172.104.242.173
+WARN  08:15:03,227 | james.imapserver | ID=-403356896 Error while processing imap request: java.io.IOException - 远程主机强迫关闭了一个现有的连接。
+INFO  08:15:03,227 | james.imapserver | ID=-403356896 Connection closed for 172.104.242.173
+INFO  08:44:00,712 | james.imapserver | ID=-2072753268 Connection established from 185.173.35.57
+INFO  08:44:01,196 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  08:44:02,087 | james.imapserver | ID=-2072753268 Connection closed for 185.173.35.57
+INFO  18:25:24,839 | james.imapserver | ID=-477546941 Connection established from 71.6.147.254
+INFO  18:25:25,011 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:25:25,183 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:25:25,339 | james.imapserver | ID=-477546941 Missing command implementation for commmand id
+INFO  18:25:25,339 | james.imapserver | ID=-477546941 Connection closed for 71.6.147.254
+INFO  21:34:32,417 | james.imapserver | ID=2108751340 Connection established from 107.170.239.108
+INFO  21:34:42,246 | james.imapserver | ID=2108751340 Connection closed for 107.170.239.108
+INFO  23:35:38,386 | james.imapserver | ID=510440148 Connection established from 106.75.3.52
+INFO  23:35:38,401 | james.imapserver | ID=510440148 Connection closed for 106.75.3.52

@@ -1,0 +1,3 @@
+INFO  04:08:06,702 | james.smtpserver | Id='-2052966023' User='' Connection established from 127.0.0.1
+INFO  04:08:08,217 | james.smtpserver | Id='-2052966023' User='' Connection closed for 127.0.0.1
+INFO  04:08:08,217 | james.smtpserver | Id='-2052966023' User='' Connection closed for 127.0.0.1

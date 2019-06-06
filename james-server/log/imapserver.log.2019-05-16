@@ -1,0 +1,9 @@
+INFO  02:18:00,419 | james.imapserver | ID=-456232603 Connection established from 79.176.32.42
+INFO  02:18:00,888 | james.imapserver | ID=-456232603 Connection closed for 79.176.32.42
+INFO  07:37:07,783 | james.imapserver | ID=-1407037143 Connection established from 101.251.238.53
+INFO  07:37:07,783 | james.imapserver | ID=-1407037143 Connection closed for 101.251.238.53
+INFO  07:37:07,830 | james.imapserver | ID=-64992145 Connection established from 101.251.238.53
+WARN  07:37:10,862 | james.imapserver | ID=-64992145 Error while processing imap request: java.io.IOException - 远程主机强迫关闭了一个现有的连接。
+INFO  07:37:10,862 | james.imapserver | ID=-64992145 Connection closed for 101.251.238.53
+INFO  09:15:04,227 | james.imapserver | ID=572119452 Connection established from 54.172.67.42
+INFO  09:15:05,462 | james.imapserver | ID=572119452 Connection closed for 54.172.67.42

@@ -1,0 +1,20 @@
+INFO  00:24:10,912 | james.imapserver | ID=-1657788012 Connection established from 107.170.198.109
+INFO  00:24:20,755 | james.imapserver | ID=-1657788012 Connection closed for 107.170.198.109
+INFO  03:06:25,223 | james.imapserver | ID=729435869 Connection established from 106.15.76.92
+INFO  03:06:25,223 | james.imapserver | ID=729435869 Missing command implementation for commmand /
+INFO  03:06:25,239 | james.imapserver | ID=729435869 Connection closed for 106.15.76.92
+INFO  04:00:05,552 | james.smtpserver | Id='1074055078' User='' Connection established from 127.0.0.1
+INFO  04:00:07,084 | james.smtpserver | Id='1074055078' User='' Connection closed for 127.0.0.1
+INFO  04:00:07,084 | james.smtpserver | Id='1074055078' User='' Connection closed for 127.0.0.1
+INFO  04:00:07,084 | james.pop3server | Id='-1736409476' User='' Connection established from 127.0.0.1
+INFO  04:00:07,084 | james.pop3server | Id='-1736409476' User='' Connection closed for 127.0.0.1
+INFO  04:00:08,599 | james.imapserver | ID=431858573 Connection established from 127.0.0.1
+INFO  04:00:08,599 | james.imapserver | ID=431858573 Connection closed for 127.0.0.1
+WARN  04:00:51,084 | org.apache.activemq.broker.TransportConnection.Transport | Transport Connection to: tcp://127.0.0.1:57997 failed: java.net.SocketException: Connection reset
+INFO  07:02:41,601 | james.imapserver | ID=1681511521 Connection established from 119.23.138.247
+INFO  07:02:41,616 | james.imapserver | ID=1681511521 Missing command implementation for commmand /
+INFO  07:02:41,616 | james.imapserver | ID=1681511521 Connection closed for 119.23.138.247
+INFO  22:20:07,619 | james.imapserver | ID=-2042094537 Connection established from 60.191.38.78
+INFO  22:20:07,669 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  22:20:07,707 | james.imapserver | ID=-2042094537 Missing command implementation for commmand ID
+INFO  22:20:07,710 | james.imapserver | ID=-2042094537 Connection closed for 60.191.38.78

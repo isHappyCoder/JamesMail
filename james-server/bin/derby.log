@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Apr 04 12:57:18 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0162-8f04-2eff-000007d62a08 
+on database directory D:\james-server-app-3.0.1\var\store\derby  with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/D:/james-server-app-3.0.1/lib/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=D:\james-server-app-3.0.1\bin
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

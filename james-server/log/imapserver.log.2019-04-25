@@ -1,0 +1,8 @@
+INFO  09:48:13,755 | james.imapserver | IMAP Service bound to: 0.0.0.0:143
+INFO  09:48:13,833 | james.imapserver | IMAP Service is running on: iZzg6iw2ooe4g6Z
+INFO  09:48:13,833 | james.imapserver | IMAP Service handler hello name is: iZzg6iw2ooe4g6Z
+INFO  09:48:13,833 | james.imapserver | IMAP Service handler connection timeout is: 300
+INFO  09:48:13,833 | james.imapserver | IMAP Service connection backlog is: 200
+INFO  09:48:13,848 | james.imapserver | Init IMAP Service done
+INFO  14:33:45,600 | james.imapserver | ID=-145761410 Connection established from 1.192.193.15
+INFO  14:33:45,631 | james.imapserver | ID=-145761410 Connection closed for 1.192.193.15

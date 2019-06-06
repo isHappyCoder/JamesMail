@@ -1,0 +1,16 @@
+INFO  10:27:51,122 | james.smtpserver | SMTP Service bound to: 0.0.0.0:25
+INFO  10:27:51,128 | james.smtpserver | SMTP Service is running on: PC201807301235
+INFO  10:27:51,129 | james.smtpserver | SMTP Service handler hello name is: PC201807301235
+INFO  10:27:51,130 | james.smtpserver | SMTP Service handler connection timeout is: 360
+INFO  10:27:51,131 | james.smtpserver | SMTP Service connection backlog is: 200
+INFO  10:27:51,132 | james.smtpserver | This SMTP server does not require authentication.
+INFO  10:27:51,133 | james.smtpserver | No maximum message size is enforced for this server.
+INFO  10:27:51,430 | james.smtpserver | Init SMTP Service done
+INFO  14:36:55,913 | james.smtpserver | SMTP Service bound to: 0.0.0.0:25
+INFO  14:36:55,913 | james.smtpserver | SMTP Service is running on: PC201807301235
+INFO  14:36:55,913 | james.smtpserver | SMTP Service handler hello name is: PC201807301235
+INFO  14:36:55,913 | james.smtpserver | SMTP Service handler connection timeout is: 360
+INFO  14:36:55,913 | james.smtpserver | SMTP Service connection backlog is: 200
+INFO  14:36:55,913 | james.smtpserver | This SMTP server does not require authentication.
+INFO  14:36:55,913 | james.smtpserver | No maximum message size is enforced for this server.
+INFO  14:36:56,263 | james.smtpserver | Init SMTP Service done

@@ -1,0 +1,13 @@
+INFO  01:38:11,597 | james.imapserver | ID=1843988580 Connection established from 119.23.138.247
+INFO  01:38:11,612 | james.imapserver | ID=1843988580 Missing command implementation for commmand /
+INFO  01:38:11,628 | james.imapserver | ID=1843988580 Connection closed for 119.23.138.247
+INFO  01:57:10,034 | james.imapserver | ID=1476333817 Connection established from 54.184.226.229
+INFO  01:57:10,644 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  01:57:10,987 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-LOGOUT: 0 ms.
+INFO  01:57:10,987 | james.imapserver | ID=1476333817 Connection closed for 54.184.226.229
+INFO  08:51:15,017 | james.imapserver | ID=-207881127 Connection established from 107.170.195.201
+INFO  08:51:24,861 | james.imapserver | ID=-207881127 Connection closed for 107.170.195.201
+INFO  16:16:31,621 | james.imapserver | ID=-1335415789 Connection established from 79.181.33.98
+INFO  16:16:31,871 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  16:16:32,668 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-LOGOUT: 0 ms.
+INFO  16:16:32,668 | james.imapserver | ID=-1335415789 Connection closed for 79.181.33.98

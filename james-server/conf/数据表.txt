@@ -1,0 +1,17 @@
+james_mail_rule
+  rule_id  varchar(64) 
+  rule_name varchar(128)
+  send_email varchar(64)
+  send_email_type char(1)
+  receive_email varchar(64)
+  receive_email_type char(1)
+  subject varchar(1024)
+  subject_type char(1)
+  auto_reply_txt text
+  is_mark_red char(1)
+  is_refused  char(1)
+  user_id varchar(64) 
+
+james_mail_ref_rule
+  rule_id varchar(64)
+  mail_id varchar(64)

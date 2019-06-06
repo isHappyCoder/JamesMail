@@ -1,0 +1,15 @@
+INFO  02:57:10,808 | james.imapserver | ID=-2128154940 Connection established from 193.106.29.74
+INFO  02:57:10,823 | james.imapserver | ID=-2128154940 Connection closed for 193.106.29.74
+INFO  05:37:40,466 | james.imapserver | ID=-198094338 Connection established from 47.96.254.10
+INFO  05:37:40,528 | james.imapserver | ID=-198094338 Missing command implementation for commmand /
+INFO  05:37:40,528 | james.imapserver | ID=-198094338 Connection closed for 47.96.254.10
+INFO  09:43:38,327 | james.imapserver | ID=1803433982 Connection established from 185.101.33.2
+INFO  09:43:38,905 | james.imapserver | ID=1803433982 Connection closed for 185.101.33.2
+INFO  11:13:53,422 | james.imapserver | ID=1929030152 Connection established from 119.23.139.140
+INFO  11:13:53,469 | james.imapserver | ID=1929030152 Missing command implementation for commmand /
+INFO  11:13:53,469 | james.imapserver | ID=1929030152 Connection closed for 119.23.139.140
+INFO  18:48:10,665 | james.imapserver | ID=-1519620016 Connection established from 196.52.43.54
+INFO  18:48:10,884 | org.apache.james.metrics.logger.DefaultMetricFactory | Time spent in IMAP-CAPABILITY: 0 ms.
+INFO  18:48:11,337 | james.imapserver | ID=-1519620016 Connection closed for 196.52.43.54
+INFO  20:55:03,672 | james.imapserver | ID=-208823406 Connection established from 162.243.140.86
+INFO  20:55:13,531 | james.imapserver | ID=-208823406 Connection closed for 162.243.140.86

@@ -1,0 +1,151 @@
+INFO  18:01:03,822 | org.apache.james.container.spring.context.JamesServerApplicationContext | Refreshing org.apache.james.container.spring.context.JamesServerApplicationContext@5a21033c: startup date [Thu Feb 28 18:01:03 CST 2019]; root of context hierarchy
+INFO  18:01:09,036 | org.apache.james.container.spring.context.JamesServerApplicationContext | Bean 'logprovider' of type [class org.apache.james.container.spring.lifecycle.LogProviderImpl] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  18:01:10,091 | james.mailrepositorystore | JamesMailStore init...
+INFO  18:01:10,119 | james.mailrepositorystore | Registering Repository instance of class org.apache.james.mailrepository.file.FileMailRepository to handle file protocol requests for repositories with key file
+INFO  18:01:10,428 | james.dnsservice | Autodiscovery is enabled - trying to discover your system's DNS Servers
+INFO  18:01:10,457 | james.dnsservice | Adding autodiscovered server 192.168.102.2
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered server 192.168.102.3
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered server 10.10.6.11
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered server 192.168.8.57
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered search path Ambow.com.
+INFO  18:01:10,458 | james.dnsservice | Adding autodiscovered search path ufsoft.com.cn.
+INFO  18:01:10,459 | james.dnsservice | DNS Server is: 192.168.102.2
+INFO  18:01:10,459 | james.dnsservice | DNS Server is: 192.168.102.3
+INFO  18:01:10,459 | james.dnsservice | DNS Server is: 10.10.6.11
+INFO  18:01:10,460 | james.dnsservice | DNS Server is: 192.168.8.57
+INFO  18:01:10,480 | james.dnsservice | Registered cache, resolver and search paths as DNSJava defaults
+INFO  18:01:16,591 | james.domainlist | Set autodetect to: true
+INFO  18:01:16,594 | james.domainlist | Set autodetectIP to: true
+ERROR 18:01:18,365 | org.apache.activemq.broker.BrokerService | Memory Usage for the Broker (1024 mb) is more than the maximum available for the JVM: 455 mb - resetting to 70% of maximum available: 318 mb
+WARN  18:01:19,016 | james.mailetcontext | The specified postmaster address ( postmaster@localhost ) is not a local address.  This is not necessarily a problem, but it does mean that emails addressed to the postmaster will be routed to another server.  For some configurations this may cause problems.
+INFO  18:01:19,175 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:19,207 | james.mailprocessor | Mailet PostmasterAlias instantiated.
+INFO  18:01:19,212 | james.mailprocessor | Matcher RelayLimit=30 instantiated.
+INFO  18:01:19,216 | james.mailprocessor | Mailet Null instantiated.
+INFO  18:01:19,222 | james.mailprocessor | Matcher HasMailAttribute=spamChecked instantiated.
+INFO  18:01:19,227 | james.mailprocessor | Mailet ToProcessor instantiated.
+INFO  18:01:19,227 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:19,276 | james.mailprocessor | Mailet SetMailAttribute instantiated.
+INFO  18:01:19,281 | james.mailprocessor | Matcher SMTPAuthSuccessful instantiated.
+INFO  18:01:19,283 | james.mailprocessor | Mailet ToProcessor instantiated.
+INFO  18:01:19,284 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:19,286 | james.mailprocessor | Mailet ToProcessor instantiated.
+INFO  18:01:19,640 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:19,665 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:19,713 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\error
+INFO  18:01:19,715 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:19,715 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\error
+INFO  18:01:19,717 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:19,718 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\error
+INFO  18:01:19,719 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:19,720 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\error
+INFO  18:01:19,721 | james.mailrepositorystore | added repository: file://var/mail/error/->org.apache.james.mailrepository.file.FileMailRepository
+INFO  18:01:19,722 | james.mailprocessor | Mailet ToRepository instantiated.
+INFO  18:01:19,763 | james.mailprocessor | Matcher SMTPAuthSuccessful instantiated.
+INFO  18:01:19,768 | james.mailprocessor | Mailet SetMimeHeader instantiated.
+INFO  18:01:19,769 | james.mailprocessor | Matcher HasMailAttribute=org.apache.james.SMIMECheckSignature instantiated.
+INFO  18:01:19,770 | james.mailprocessor | Mailet SetMimeHeader instantiated.
+INFO  18:01:19,771 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:19,799 | james.mailprocessor | Mailet RecipientRewriteTable instantiated.
+INFO  18:01:19,805 | james.mailprocessor | Matcher SenderIsLocal instantiated.
+INFO  18:01:19,967 | james.mailprocessor | Mailet ToSenderFolder instantiated.
+INFO  18:01:19,972 | james.mailprocessor | Matcher RecipientIsLocal instantiated.
+INFO  18:01:20,021 | james.mailprocessor | Mailet Sieve instantiated.
+INFO  18:01:20,022 | james.mailprocessor | Matcher RecipientIsLocal instantiated.
+INFO  18:01:20,028 | james.mailprocessor | Mailet AddDeliveredToHeader instantiated.
+INFO  18:01:20,029 | james.mailprocessor | Matcher RecipientIsLocal instantiated.
+INFO  18:01:20,039 | james.mailprocessor | Mailet LocalDelivery instantiated.
+INFO  18:01:20,047 | james.mailprocessor | Matcher HostIsLocal instantiated.
+INFO  18:01:20,048 | james.mailprocessor | Mailet ToProcessor instantiated.
+INFO  18:01:20,115 | james.mailetcontext | Authorized addresses: [127.0.0.1/255.255.255.255]
+INFO  18:01:20,116 | james.mailprocessor | Matcher RemoteAddrNotInNetwork=127.0.0.1 instantiated.
+INFO  18:01:20,118 | james.mailprocessor | Mailet ToProcessor instantiated.
+INFO  18:01:20,120 | james.mailprocessor | Matcher All instantiated.
+WARN  18:01:20,144 | org.apache.james.transport.mailets.remoteDelivery.DelaysAndMaxRetry | maxRetries is larger than total number of attempts specified. Increasing last delayTime with 22 attempts 
+WARN  18:01:20,145 | org.apache.james.transport.mailets.remoteDelivery.DelaysAndMaxRetry | Delay of 500000 msecs is now attempted: 1 times
+INFO  18:01:20,260 | james.mailprocessor | Mailet RemoteDelivery instantiated.
+INFO  18:01:20,477 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,485 | james.mailprocessor | Mailet MetricsMailet instantiated.
+INFO  18:01:20,486 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,506 | james.mailprocessor | Mailet Bounce instantiated.
+INFO  18:01:20,507 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,510 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:20,512 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\over-quota-error
+INFO  18:01:20,514 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:20,514 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\over-quota-error
+INFO  18:01:20,517 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:20,518 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\over-quota-error
+INFO  18:01:20,519 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:20,520 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\over-quota-error
+INFO  18:01:20,522 | james.mailrepositorystore | added repository: file://var/mail/over-quota-error/->org.apache.james.mailrepository.file.FileMailRepository
+INFO  18:01:20,523 | james.mailprocessor | Mailet ToRepository instantiated.
+INFO  18:01:20,594 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,596 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:20,598 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\spam
+INFO  18:01:20,599 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:20,600 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\spam
+INFO  18:01:20,602 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:20,603 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\spam
+INFO  18:01:20,605 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:20,606 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\spam
+INFO  18:01:20,608 | james.mailrepositorystore | added repository: file://var/mail/spam/->org.apache.james.mailrepository.file.FileMailRepository
+INFO  18:01:20,609 | james.mailprocessor | Mailet ToRepository instantiated.
+INFO  18:01:20,642 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,645 | james.mailprocessor | Mailet SetMailAttribute instantiated.
+INFO  18:01:20,646 | james.mailprocessor | Matcher SMTPAuthSuccessful instantiated.
+INFO  18:01:20,648 | james.mailprocessor | Mailet Bounce instantiated.
+INFO  18:01:20,650 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,651 | james.mailprocessor | Mailet Null instantiated.
+INFO  18:01:20,713 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,716 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:20,718 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\address-error
+INFO  18:01:20,718 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:20,719 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\address-error
+INFO  18:01:20,720 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:20,721 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\address-error
+INFO  18:01:20,722 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:20,722 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\address-error
+INFO  18:01:20,725 | james.mailrepositorystore | added repository: file://var/mail/address-error/->org.apache.james.mailrepository.file.FileMailRepository
+INFO  18:01:20,725 | james.mailprocessor | Mailet ToRepository instantiated.
+INFO  18:01:20,762 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,766 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:20,768 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\relay-denied
+INFO  18:01:20,770 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:20,771 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\relay-denied
+INFO  18:01:20,773 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentObjectRepository Store
+INFO  18:01:20,774 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentObjectRepository opened in ..\var\mail\relay-denied
+INFO  18:01:20,775 | james.mailrepositorystore | Init org.apache.james.repository.file.FilePersistentStreamRepository Store
+INFO  18:01:20,776 | james.mailrepositorystore | org.apache.james.repository.file.FilePersistentStreamRepository opened in ..\var\mail\relay-denied
+INFO  18:01:20,779 | james.mailrepositorystore | added repository: file://var/mail/relay-denied/->org.apache.james.mailrepository.file.FileMailRepository
+INFO  18:01:20,780 | james.mailprocessor | Mailet ToRepository instantiated.
+INFO  18:01:20,814 | james.mailprocessor | Matcher All instantiated.
+INFO  18:01:20,836 | james.mailprocessor | Mailet DSNBounce instantiated.
+INFO  18:01:20,864 | james.mailspooler | org.apache.james.mailetcontainer.impl.JamesMailSpooler init...
+INFO  18:01:20,865 | james.mailspooler | org.apache.james.mailetcontainer.impl.JamesMailSpooler uses 20 Thread(s)
+INFO  18:01:20,869 | james.mailspooler | Run org.apache.james.mailetcontainer.impl.JamesMailSpooler: dequeuer-1
+INFO  18:01:20,869 | james.mailspooler | Run org.apache.james.mailetcontainer.impl.JamesMailSpooler: dequeuer-2
+INFO  18:01:20,870 | james.mailspooler | Queue=MailQueue:spool
+INFO  18:01:20,871 | james.mailspooler | Queue=MailQueue:spool
+INFO  18:01:20,919 | james.fetchmail | FetchMail Disabled
+INFO  18:01:21,014 | james.smtpserver | SMTP Service bound to: 0.0.0.0:25
+INFO  18:01:21,017 | james.smtpserver | SMTP Service is running on: PC201807301235
+INFO  18:01:21,017 | james.smtpserver | SMTP Service handler hello name is: PC201807301235
+INFO  18:01:21,020 | james.smtpserver | SMTP Service handler connection timeout is: 360
+INFO  18:01:21,020 | james.smtpserver | SMTP Service connection backlog is: 200
+INFO  18:01:21,021 | james.smtpserver | This SMTP server does not require authentication.
+INFO  18:01:21,022 | james.smtpserver | No maximum message size is enforced for this server.
+INFO  18:01:21,318 | james.smtpserver | Init SMTP Service done
+INFO  18:01:21,344 | james.lmtpserver | LMTP Service disabled by configuration
+INFO  18:01:21,368 | james.pop3server | POP3 Service bound to: 0.0.0.0:110
+INFO  18:01:21,371 | james.pop3server | POP3 Service is running on: PC201807301235
+INFO  18:01:21,372 | james.pop3server | POP3 Service handler hello name is: PC201807301235
+INFO  18:01:21,374 | james.pop3server | POP3 Service handler connection timeout is: 1200
+INFO  18:01:21,375 | james.pop3server | POP3 Service connection backlog is: 200
+INFO  18:01:21,460 | james.pop3server | Init POP3 Service done
+INFO  18:01:21,776 | james.imapserver | IMAP Service bound to: 0.0.0.0:143
+INFO  18:01:21,779 | james.imapserver | IMAP Service is running on: PC201807301235
+INFO  18:01:21,780 | james.imapserver | IMAP Service handler hello name is: PC201807301235
+INFO  18:01:21,783 | james.imapserver | IMAP Service handler connection timeout is: 300
+INFO  18:01:21,783 | james.imapserver | IMAP Service connection backlog is: 200
+INFO  18:01:21,800 | james.imapserver | Init IMAP Service done
+INFO  18:01:24,340 | org.apache.james.app.spring.JamesAppSpringMain | Apache James Server is successfully started in 20728 milliseconds.
